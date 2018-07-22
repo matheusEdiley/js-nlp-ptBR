@@ -1,9 +1,4 @@
 
-/**
- * Function test
- * @param: param1 : string of keywords
- * @return: object: ...
- **/
 
 
 let stopWords_PTbr = "a,à,agora,ainda,alguém,algum,alguma,algumas,alguns,ampla,amplas,amplo,amplos,ante,antes,ao,aos, \
